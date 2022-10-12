@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    box-sizing: border-box;   
+}
+/* ---------------------------HEADER--------------------------- */
+header{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+}
+#divlogoheader{
+    margin-right: 5%;
+}
+.opcionclase{
+    text-decoration: none;
+    color: white;
+}
+.opcionclase:hover{
+    color: white;
+    text-decoration: underline 2px;
+}
+.botonportr{
+    color: white;
+    font-size: 2rem;
+}
+/*---------------------------MAIN--------------------------- */
+.botonagregarcarrito{
+    border-radius: 10px;
+}
+#botonabrircarrito{
+    font-size: 3rem;
+    color: white;
+    top: 70%;
+    right: 15px;
+}
+.cardarticulo{
+    border-radius: 20px;
+}
+.card-title{
+    font-size: 1.3rem;
+    overflow-y: hidden;
+}
+.overfy-hidden{
+    overflow-y: hidden;
+}

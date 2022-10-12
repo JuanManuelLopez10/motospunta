@@ -1,0 +1,192 @@
+[
+    {
+        "id":"102010203",
+        "clase":"motos",
+        "categoria":"Cubs",
+        "marca":"Honda",
+        "modelo":"Wave",
+        "cilindrada":110,
+        "abreviado":"hondawave110gris",
+        "nombre":"Honda Wave 110 S Gris",
+        "nombremodelo":"Honda Wave 110 S",
+        "color":"Gris",
+        "precio":2490,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"102010204",
+        "clase":"motos",
+        "categoria":"Cubs",
+        "marca":"Honda",
+        "modelo":"Wave",
+        "cilindrada":110,
+        "abreviado":"hondawave110roja",
+        "nombre":"Honda Wave 110 S Roja",
+        "nombremodelo":"Honda Wave 110 S",
+        "color":"Rojo",
+        "precio":2490,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"102010202",
+        "clase":"motos",
+        "categoria":"Cubs",
+        "marca":"Honda",
+        "modelo":"Wave",
+        "cilindrada":110,
+        "abreviado":"hondawave110blanca",
+        "nombre":"Honda Wave 110 S Blanca",
+        "nombremodelo":"Honda Wave 110 S",
+        "color":"Blanco",
+        "precio":2490,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"105010904",
+        "clase":"motos",
+        "categoria":"Naked",
+        "marca":"Honda",
+        "modelo":"Twister",
+        "cilindrada":125,
+        "abreviado":"hondatwister125roja",
+        "nombre":"Honda CB 125 Twister Roja",
+        "nombremodelo":"Honda CB 125 Twister",
+        "color":"Rojo",
+        "precio":2490,
+        "stock":2,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"105010901",
+        "clase":"motos",
+        "categoria":"Naked",
+        "marca":"Honda",
+        "modelo":"Twister",
+        "cilindrada":125,
+        "abreviado":"hondatwister125negra",
+        "nombre":"Honda CB 125 Twister Negra",
+        "nombremodelo":"Honda CB 125 Twister",
+        "color":"Negro",
+        "precio":2490,
+        "stock":2,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"104030405",
+        "clase":"motos",
+        "categoria":"Multipropósito",
+        "marca":"CFMoto",
+        "modelo":"MT",
+        "cilindrada":800,
+        "abreviado":"cfmotomt800touring",
+        "nombre":"CF Moto MT 800 Touring",
+        "nombremodelo":"CF Moto MT 800 Touring",
+        "color":"Azul",
+        "precio":20190,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":true
+    },
+    {
+        "id":"105030603",
+        "clase":"motos",
+        "categoria":"Naked",
+        "marca":"CFMoto",
+        "modelo":"NK",
+        "cilindrada":250,
+        "abreviado":"cfmotonk250azul",
+        "nombre":"CF Moto NK 250 Azul",
+        "nombremodelo":"CF Moto NK 250",
+        "color":"Azul",
+        "precio":5490,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":true
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "id":"105030603",
+        "clase":"cascos",
+        "categoria":"Integral",
+        "marca":"MT",
+        "modelo":"Thunder 4 Azul",
+        "abreviado":"mtthunder4azulmate",
+        "nombre":"MT Thunder 4 Azul mate",
+        "nombremodelo":"Thunder 4",
+        "color":"Azul",
+        "precio":189,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":true
+    },
+    {
+        "id":"105030603",
+        "clase":"cascos",
+        "categoria":"Integral",
+        "marca":"MT",
+        "modelo":"Thunder 4 Negro mate",
+        "abreviado":"mtthunder4negromate",
+        "nombre":"MT Thunder 4 Negro mate",
+        "nombremodelo":"Thunder 4",
+        "color":"Negro",
+        "precio":189,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"105030603",
+        "clase":"cascos",
+        "categoria":"Integral",
+        "marca":"MT",
+        "modelo":"Thunder 4 Negro brillante",
+        "abreviado":"mtthunder4negrobrillante",
+        "nombre":"MT Thunder 4 Negro brillante",
+        "nombremodelo":"Thunder 4",
+        "color":"Negro",
+        "precio":189,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":false
+    },
+    {
+        "id":"105030603",
+        "clase":"cascos",
+        "categoria":"Integral",
+        "marca":"MT",
+        "modelo":"Thunder 4 Blanco",
+        "abreviado":"mtthunder4blanco",
+        "nombre":"MT Thunder 4 Blanco",
+        "nombremodelo":"Thunder 4",
+        "color":"Blanco",
+        "precio":189,
+        "stock":1,
+        "cantidad":0,
+        "wallpaper":false
+    }
+
+]
